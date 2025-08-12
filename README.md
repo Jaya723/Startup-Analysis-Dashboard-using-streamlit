@@ -1,4 +1,4 @@
-#📊 Startup Funding Analysis Dashboard
+📊 #Startup Funding Analysis Dashboard
 This is an interactive Streamlit dashboard for exploring and analyzing startup funding data.
 It allows users to view overall investment trends, analyze specific startups, and explore investor profiles — all in an easy-to-use interface.
 
