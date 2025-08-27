@@ -8,7 +8,7 @@ It allows users to view **overall investment trends**, analyze **specific startu
 ## 🚀 Features
 
 ### **Overall Analysis**
-- Total investments, max single-round funding, average funding, and total startups funded.  
+- Total investments, average funding, and total startups funded.  
 - Month-on-month funding trends (total amount or funding count).  
 - Top 20 verticals by number of startups.  
 
